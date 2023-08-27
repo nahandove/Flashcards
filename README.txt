@@ -5,7 +5,7 @@ create flashcards of their own design, save flashcards into a file, load flashca
 a file, and test their knowledge about the definition of any word. The program is also capable
 of recording user errors and pointing out "difficult cards" where they made the most mistakes.
 
-A total of 9 different operations are available to the user, two of which can be input via the
+A total of 9 different operations are available to the user, 2 of which can be input via the
 command line: import and export. All the operations, including import and export, are listed on 
 the menu prompt, which pops up whenever an operation is finished and continuously until the 
 user chooses the exit operation. All the operations are listed as below:
