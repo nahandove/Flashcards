@@ -33,7 +33,7 @@ cards from the import files replace the the cards in the current collection.
 then the file name as the next argument, or as "export" response to the menu prompt. If the file name
 is supplied via the command line, it is used as the default export operation and automatically save 
 the current card collections into the export file upon exit. Otherwise, the program prompts the
-user supply a file name to save their progress. The user is informed that the cards are saved and the
+user to supply a file name to save their progress. The user is informed that the cards are saved and the
 file recording saved cards (including error counts) can be used for future sessions.
 
 5. Ask operation. Indicated by the input "ask" after the menu prompt. This operation tests the user's
